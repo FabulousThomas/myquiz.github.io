@@ -39,7 +39,8 @@
 
 #home-heading {
   position: relative;
-  min-height: 400px;
+  /* min-height: 400px; */
+  height: 400px;
   background: url(../img/lights.jpg);
   background-attachment: fixed;
   background-repeat: no-repeat;
